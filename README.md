@@ -3,7 +3,7 @@
 ## Sobre mim:
 Nome: Gustavo Rodrigues Leite da Silva 
 
-Curso: Analista e Desenvolvimento de Sistema
+Curso: Analista e Desenvolvimento de Sistema - AMS
 
 Período: tarde 
 
