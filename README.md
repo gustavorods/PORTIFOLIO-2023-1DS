@@ -5,7 +5,7 @@ Nome: Gustavo Rodrigues Leite da Silva
 
 Curso: Analista e Desenvolvimento de Sistema
 
-Período: Tarde 
+Período: tarde 
 
 Ano: 1° 
 
